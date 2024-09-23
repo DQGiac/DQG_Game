@@ -1,3 +1,6 @@
+## About these fonts
+- Made for fun, nothing serious.
+- Made with <a href="https://www.pentacom.jp/pentacom/bitfontmaker2/">pentacom.jp</a>
 ## Links:
 - smol: <a href="https://dqg.itch.io/smol-font">dqg.itch.io/smol-font</a>
 - smolExtended: <a href="https://dqg.itch.io/smol-font-extended">dqg.itch.io/smol-font-extended</a>
